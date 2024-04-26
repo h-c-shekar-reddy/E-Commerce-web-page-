@@ -1,4 +1,4 @@
-# Farm-E-commerce-web-page
+# F.A.R.M. Fresh (Farmers' Access to Regional Markets)
 Our farm e-commerce web page is an online platform that facilitates the buying and selling agricuture products and services.This website is designed to connect farmers, agricultural producers with consumers directly.  
 Key features of a Farm E-commerce web page may include:
 Product Listings: Farmers can showcase their produce, including fruits, vegetables, grains, livestock, and more, through detailed product listings.
